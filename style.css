@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height:40px;
+    background-color: black;
+}
+
+image{
+    height: 300px;
+    width: 250px;
+}
+
+.button{
+    border: none;
+}
+
+
+
+
+
